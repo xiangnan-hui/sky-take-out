@@ -19,4 +19,6 @@ public class EmployeeDTO implements Serializable {
 
     private String idNumber;
 
+    //新增员工
+
 }
